@@ -11,8 +11,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student  
-- 💡 Interested in **Web Development, DSA & Networking**  
-- 🌱 Currently learning **JavaScript & Full-Stack Development**  
+- 💡 Interested in **Web Development, DSA & OOP**  
+- 🌱 Currently learning **JavaScript & Full-Stack Development (React Typescript)**  
 - 🎯 Goal: **Become a professional software engineer**  
 
 ---
@@ -21,24 +21,24 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java" />
 </p>
 
 ### 🌐 Web
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma" />
 </p>
 
 ### 🧠 Concepts
 - Data Structures & Algorithms  
-- Computer Architecture  
-- Discrete Mathematics  
+- Object Oriented Program   
+- Git  
 ---
 
 ## 🚀 Projects
 - 🛒 Grocery Website (Web Project)
 - 🏦 Loan Checker System (C)
-- 🎮 Memory Game (C – 5x5 Grid)
+- 🦒 Zoo Feeding Schedule (OOP via Java)
 
 
 ---
@@ -61,11 +61,14 @@
 
 
 ##  Connect With Me
-<p>
-  <a href="https://github.com/dina-seng">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+<div style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://github.com/dina-seng" target="_blank" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a> 
+  <a href="https://www.linkedin.com/in/seng-dina" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
+</div>
 
 ---
 
