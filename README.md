@@ -1,12 +1,12 @@
 <div align="center">
 
 ```text
-██████╗ ██╗███╗   ██╗ █████╗     ███████╗███████╗███╗   ██╗ ██████╗ 
-██╔══██╗██║████╗  ██║██╔══██╗    ██╔════╝██╔════╝████╗  ██║██╔════╝ 
-██║  ██║██║██╔██╗ ██║███████║    ███████╗█████╗  ██╔██╗ ██║██║  ███╗
-██║  ██║██║██║╚██╗██║██╔══██║    ╚════██║██╔══╝  ██║╚██╗██║██║   ██║
-██████╔╝██║██║ ╚████║██║  ██║    ███████║███████╗██║ ╚████║╚██████╔╝
-╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
+██████╗  ██╗ ███╗   ██╗ █████╗     ███████╗███████╗███╗   ██╗ ██████╗ 
+██╔══██╗ ██║ ████╗  ██║██╔══██╗    ██╔════╝██╔════╝████╗  ██║██╔════╝ 
+██║  ██║ ██║ ██╔██╗ ██║███████║    ███████╗█████╗  ██╔██╗ ██║██║  ███╗
+██║  ██║ ██║ ██║╚██╗██║██╔══██║    ╚════██║██╔══╝  ██║╚██╗██║██║   ██║
+██████╔╝ ██║ ██║ ╚████║██║  ██║    ███████║███████╗██║ ╚████║╚██████╔╝
+╚═════╝  ╚═╝ ╚═╝  ╚═══╝╚═╝  ╚═╝    ╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
 ```
 
 <p align="center">
@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/badge/CLASS-ENGINEER-FFE600?style=for-the-badge&logo=codeforces&logoColor=black" alt="Class Engineer" />
   <img src="https://img.shields.io/badge/GUILD-CADT%20GEN%2011-7928CA?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Guild CADT Gen 11" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE%20%E2%9A%A1-00FF66?style=for-the-badge&logo=signal&logoColor=black" alt="Status Online" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/dina-seng">
-    <img src="./retro-profile-banner.png" alt="Dina Seng Retro Arcade Profile Card" width="480" />
-  </a>
 </p>
 
 </div>
